@@ -309,18 +309,9 @@ a:hover {
 	padding-bottom: 0.25rem;
 }
 
-.navbar .logo-image img {
-    width: 126px;
-	height: 32px;
-}
 
-.navbar .logo-text {
-	color: #00040a;
-	font-weight: 700;
-	font-size: 1.875rem;
-	line-height: 1rem;
-	text-decoration: none;
-}
+
+
 
 .offcanvas-collapse {
 	position: fixed;
@@ -420,24 +411,17 @@ a:hover {
 /*     Header     */
 /******************/
 .header {
-	padding-top: 1rem;
-	padding-bottom: 1em;
+
 	background: url('../images/header-background.jpg') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
 
-.header .h1-large {
-	margin-bottom: 1.75rem;
-}
 
-.header .p-large {
-	margin-bottom: 2.25rem;
-}
 
-.header .image-container {
-	margin-top: 2rem;
-}
+
+
+
 
 
 .cards-2 {
@@ -667,11 +651,11 @@ a:hover {
 	}
 
 	.header .text-container {
-		margin-top: 4rem;
+		margin-top: 1rem;
 	}
 
 	.header .image-container {
-		margin-top: 0;
+		margin-top: 1rem;
 	}
 
 	.header .btn-solid-lg,
@@ -807,8 +791,8 @@ a:hover {
 	/* Header */
 	.header {
 		overflow: hidden;
-		padding-top: 20.25rem;
-		padding-bottom: 15rem;
+		padding-top: 2rem;
+		padding-bottom: 25rem;
 	}
 
 	.header .text-container {
