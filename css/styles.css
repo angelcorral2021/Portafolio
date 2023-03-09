@@ -456,58 +456,10 @@ a:hover {
 	margin-bottom: 5rem;
 	border-radius: 20px;
 	box-shadow: 0 4px 20px -1px rgba(0, 0, 0, 0.1);
-	background-color: #c66ac6;
+	background-color: #161727;
 }
 
 
-
-.cards-2 .card-body {
-	padding: 3.5rem 2rem 3.125rem 2rem;
-}
-
-.cards-2 .testimonial-author {
-	margin-bottom: 0.125rem;
-	color: #080808;
-}
-
-.cards-2 .occupation {
-	font-size: 0.875rem;
-	line-height: 1.5rem;
-}
-
-.cards-2 .card .gradient-floor {
-	position: absolute;
-	bottom: 0;
-	left: 0;
-	height: 10px;
-	width: 100%;
-	border-bottom-left-radius: 10px;
-	border-bottom-right-radius: 10px;
-}
-
-
-
-
-/********************/
-/*    Customers     */
-/********************/
-
-
-
-/**********************/
-/*     Invitation     */
-/**********************/
-
-
-/*******************/
-/*     Contact     */
-/*******************/
-
-
-
-/******************/
-/*     Footer     */
-/******************/
 .footer {
 	position: relative;
 	padding-top: 7.5rem;
