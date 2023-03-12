@@ -1,0 +1,6 @@
+Comandos para desplegar en github pages
+
+
+Primero: npm run build   
+
+Segundo: npm run deploy  
